@@ -1,18 +1,20 @@
 <template>
   <div id="app">
-     <mainWrapper/>
+     <router-view/>
+     <headerWrapper/>
+
   </div>
 </template>
 
 <script>
-//import headerWrapper from "./header/v-header-wrapper.vue"
-import mainWrapper from "./pages/v-main-wrapper.vue"
+import headerWrapper from "./header/HeaderWrapper.vue"
+
 
 export default {
   name: 'App',
   components: {
-     //headerWrapper,
-   mainWrapper
+     headerWrapper,
+
   }
 }
 </script>

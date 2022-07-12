@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import cartWidget from "./header-componnents/v-cart-widget.vue"
-import logo from "./header-componnents/v-logo.vue"
-import navigation from "./header-componnents/v-navigation.vue"
+import cartWidget from "./header-componnents/CartWidget.vue"
+import logo from "./header-componnents/Logo.vue"
+import navigation from "./header-componnents/Navigation.vue"
 
 export default {
    name:'header-wrapper',
