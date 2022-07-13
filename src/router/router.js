@@ -12,27 +12,27 @@ Vue.use(Router)
 let router = new Router( {
    routes: [
       {
-         path: '/',
+         path: '/Home',
          name: 'Home',
          commponent: Home
       },
       {
-         path: '/',
+         path: '/Catalog',
          name: 'Catalog',
          commponent: Catalog
       },
       {
-         path: '/',
+         path: '/Contacts',
          name: 'Contacts',
          commponent: Contacts
       },
       {
-         path: '/',
+         path: '/Testimonials',
          name: 'Testimonials',
          commponent: Testimonials
       },
       {
-         path: '/',
+         path: '/Cart',
          name: 'Cart',
          commponent: Cart
       }

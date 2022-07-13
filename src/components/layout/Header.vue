@@ -1,5 +1,5 @@
 <template>
-   <div class="v-header-wrapper">
+   <div class="header-wrapper">
       <logo/>
       <navigation/>
       <cartWidget/>
@@ -7,9 +7,9 @@
 </template>
 
 <script>
-import cartWidget from "./header-componnents/CartWidget.vue"
-import logo from "./header-componnents/Logo.vue"
-import navigation from "./header-componnents/Navigation.vue"
+import cartWidget from "./header/CartWidget.vue"
+import logo from "./header/Logo.vue"
+import navigation from "./header/Navigation.vue"
 
 export default {
    name:'header-wrapper',
@@ -34,7 +34,7 @@ export default {
 </script>
 
 <style >
-.v-header-wrapper {
+.header-wrapper {
   margin: 2% 3%;
   display: flex;
   align-items: center;
@@ -43,7 +43,5 @@ export default {
   flex-direction: row;
   padding-bottom: 6%;
 }
-.header-childelement {
-  text-align: center;
-}
+
 </style>
