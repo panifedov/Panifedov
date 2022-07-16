@@ -1,6 +1,6 @@
 <template>
    <div class="v-cart-widget">
-<div href="/cart.html" class="cart-href">
+         <router-link :to="{ name: 'Cart' }">
             <div class="cart-logo">
                <div class="price-cart-counter">
 
@@ -9,7 +9,7 @@
             <div class="price-cart-price">
                
             </div>
-         </div>
+         </router-link>
    </div>
 </template>
 
