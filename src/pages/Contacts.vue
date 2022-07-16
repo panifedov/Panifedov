@@ -16,9 +16,8 @@
         of Lorem Ipsum.
       </h3>
     </div>
-    <div class="mapka">
+    <div class="map">
       <gmap-map
-        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d270460.0471876541!2d13.71254797896021!3d65.15462721095834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4673ffaaaaaaaaab%3A0x3a85823c64af8e41!2sB%C3%B8rgefjell%20nasjonalpark!5e1!3m2!1sru!2sby!4v1636938247057!5m2!1sru!2sby"
         style="width: 100%; height: 350px; border: 4px solid black"
       >
       </gmap-map>

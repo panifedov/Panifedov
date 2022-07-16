@@ -1,9 +1,9 @@
 <template>
-        <div class="v-navigation">
-    <router-link :to="{ name: 'Home' }" >home</router-link>
-    <router-link :to="{ name: 'Catalog' }" >catalog</router-link>
-    <router-link :to="{ name: 'Contacts' }" >contacts</router-link>
-    <router-link :to="{ name: 'Testimonials' }" >testimonials</router-link>
+        <div class="navigation">
+    <router-link :to="{ name: 'Home' }" class="v-navigation">Home</router-link>
+    <router-link :to="{ name: 'Catalog' }" class="v-navigation" >Catalog</router-link>
+    <router-link :to="{ name: 'Contacts' }" class="v-navigation" >Contacts</router-link>
+    <router-link :to="{ name: 'Testimonials' }" class="v-navigation" >Testimonials</router-link>
   </div>
 </template>
 
@@ -27,19 +27,8 @@ export default {
 </script>
 
 <style >
-router-link {
-   padding-left: 20px;
-}
-.navigation {
-   display: flex;
-    width: 10%;
-    height: 10%;
-    /* margin: 0% 0% 0% 12%; */
-    flex-direction: row;
-    flex-wrap: nowrap;
-}
+
 .v-navigation  {
-   display: flex;
    flex-wrap: wrap;
   font-family: "Monda";
   font-style: normal;
@@ -48,6 +37,10 @@ router-link {
   line-height: 39px;
   color: black;
   text-decoration: none;
+  padding-left: 20px;
+}
+.v-navigation:hover {
+   color: #fff;
 }
 
 </style>
