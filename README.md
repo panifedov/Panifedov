@@ -1,4 +1,4 @@
-# test-app
+# ecommerce_vue
 
 ## Project setup
 ```
