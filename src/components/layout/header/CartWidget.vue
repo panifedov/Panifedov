@@ -16,7 +16,7 @@
 <script>
 
 export default {
-   name:'v-cartWidget',
+   name:'cartWidgetComponents',
    props:{},
    data () {
       return{

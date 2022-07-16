@@ -20,7 +20,7 @@
 
 <script>
 export default {
-   name:"homeVue"
+   name:"HomePage"
    
 }
 </script>

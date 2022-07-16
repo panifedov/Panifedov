@@ -19,7 +19,7 @@
 
 <script>
 export default {
-   name: "TestimonialsVue",
+   name: "TestimonialsPage",
   data() {
     return {
 
@@ -125,4 +125,3 @@ text-align: center;
    color: #000000;
 }
 </style>
-

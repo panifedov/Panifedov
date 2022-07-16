@@ -1,15 +1,16 @@
 <template>
-   <div class="v-navigation">
-    <router-link :to="{ name: 'Home', params:'Home' }" >Home</router-link>
-    <router-link :to="{ name: 'Catalog', params:'Catalog' }" >Catalog</router-link>
-    <router-link :to="{ name: 'Contacts', params:'Contacts' }" >Contacts</router-link>
-    <router-link :to="{ name: 'Testimonials', params:'Testimonials' }" >Testimonials</router-link>
+        <div class="v-navigation">
+    <router-link :to="{ name: 'Home' }" >home</router-link>
+    <router-link :to="{ name: 'Catalog' }" >catalog</router-link>
+    <router-link :to="{ name: 'Contacts' }" >contacts</router-link>
+    <router-link :to="{ name: 'Testimonials' }" >testimonials</router-link>
   </div>
 </template>
 
 <script>
+
 export default {
-   name:'v-navigation',
+   name:'navigationComponents',
    props:{},
    data () {
       return{

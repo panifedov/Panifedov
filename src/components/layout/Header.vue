@@ -12,7 +12,7 @@ import logo from "./header/Logo.vue"
 import navigation from "./header/Navigation.vue"
 
 export default {
-   name:'header-wrapper',
+   name:'HeaderComponent',
    components: {
       cartWidget,
       logo,

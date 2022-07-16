@@ -10,7 +10,7 @@
 <script>
 
 export default {
-   name:'v-logo',
+   name:'logoComponents',
    props:{},
    data () {
       return{
