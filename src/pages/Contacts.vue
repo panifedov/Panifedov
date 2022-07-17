@@ -18,6 +18,9 @@
     </div>
     <div class="map">
       <gmap-map
+       :center='center'
+
+       :zoom='12'
         style="width: 100%; height: 350px; border: 4px solid black"
       >
       </gmap-map>
@@ -26,6 +29,14 @@
 </template>
 <script>
 export default {
-  name: "ContactsPage"
+  name: "ContactsPage",
+  data() {
+    return {
+
+      center: { lat: 45.508, lng: -73.587 },
+
+      }
+
+   },
 };
 </script>
