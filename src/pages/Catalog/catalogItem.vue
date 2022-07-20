@@ -16,6 +16,8 @@
 </template>
 
 <script>
+//import {mapAction} from "vuex"
+
 export default {
    name:"catalogItem",
    props: {
@@ -31,6 +33,9 @@ export default {
       }
    },
    methods: {
+//            ...mapAction([
+//         
+//      ]),
       addToCart () {
          this.$emit('sendArticle', this.product_data.article)
       }

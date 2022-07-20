@@ -18,6 +18,17 @@
 <script>
 export default {
    name:"СartPage",
+   props:{
+
+   },
+   data() {
+      return{
+
+      }
+   },
+   computed: {
+      
+   }
 }
 </script>
 
