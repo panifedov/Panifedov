@@ -11,23 +11,34 @@
         <span>Actions</span>
       </div>
     </div>
+    <cart-item 
+      v-for="item in cart" 
+      :key="item.article"
+      :cart_item="item"
+    />
    </div>
+   
 </div>
 </template>
 
 <script>
+import CartItem from "./Cart/cartItem.vue"
+
 export default {
    name:"СartPage",
-   props:{
-
+   components:{
+      "cart-item":CartItem,
    },
+
    data() {
       return{
 
       }
    },
    computed: {
-      
+      cart() {
+         return this.$store.getters["CART"]
+      }
    }
 }
 </script>

@@ -30,12 +30,6 @@ export default {
 
       }
    },
-   methods: {
-
-      showArticle (data) {
-         console.log(data);
-      }
-   }
 }
 </script>
 
