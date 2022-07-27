@@ -8,15 +8,16 @@
     </div>
     <div class="cart-table-quantity">
       <button @click="decrementItem" class="btnqty">-</button>
-      {{ }}
+      {{ cart_item.quantity }}
       <button @click="incrementItem" class="btnqty">+</button>
     </div>
-    <div class="cart-totalcost">{{ cart_item.price }} / {{  }}</div>
+    <div class="cart-totalcost">{{ cart_item.price }} / {{ itemTotal }}</div>
     <div><button @click="removeFromCart" class="btn-cart">Remove</button></div>
   </div>
 </template>
 
 <script>
+
 export default {
    name:"cartItem",
    props: {
@@ -26,7 +27,24 @@ export default {
          return {}
          }
       }
-   }
+   },
+   methods:{
+      removeFromCart(){
+         this.$store.dispatch("DELETE_FROM_CART", this.cart_item);
+      },
+      decrementItem() {
+         this.$store.dispatch("DECREMENT_ITEM", this.cart_item);
+      },
+         incrementItem() {
+         this.$store.dispatch("INCREMENT_ITEM", this.cart_item);
+      }
+   },
+  computed: {
+    itemTotal() {
+      let total = this.cart_item.quantity * this.cart_item.price;
+      return total;
+    }
+  }
 }
 </script>
 

@@ -16,8 +16,6 @@
 </template>
 
 <script>
-//import {mapActions} from "vuex"
-
 export default {
    name:"catalogItem",
    props: {
@@ -33,10 +31,13 @@ export default {
       }
    },
    methods: {
-  //    ...mapActions(["ADD_TO_CART"]),
     addToCart() {
-      this.$store.dispatch("ADD_TO_CART", this.product_data)
+      this.$set(this.product_data, "quantity", 1);
+      this.$store.dispatch("ADD_TO_CART", this.product_data);
     }
+  },
+  mounted: {
+
   }
    
 }

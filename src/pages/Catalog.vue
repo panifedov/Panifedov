@@ -6,7 +6,6 @@
          v-for="product in products" 
          :key="product.article" 
          :product_data="product"
-         @sendArticle = "showArticle"
      />
      </div>
   </div>
