@@ -34,7 +34,7 @@ export default {
    watch:{},
    mounted: {
       cartTotalCost() {
-         result = []
+         let result = []
 
          for (let item of this.cart) {
             result.push(item.price * item.quantity)
