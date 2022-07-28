@@ -7,7 +7,7 @@
                </div>
             </div>
             <div class="price-cart-price">
-               
+               {{cartTotalCost}}
             </div>
          </router-link>
    </div>
@@ -23,11 +23,27 @@ export default {
          title:'cartWidget'
       }
    },
-   computed: {},
-   methods:{},
-   watch:{},
-   mounted () {
+   computed: {
+      cart() {
+         return this.$store.getters["CART"]
+      }
+   },
+   methods:{
 
+   },
+   watch:{},
+   mounted: {
+      cartTotalCost() {
+         result = []
+
+         for (let item of this.cart) {
+            result.push(item.price * item.quantity)
+         }
+         result = result.reduce(function(sum, el) {
+            return sum+el;
+         })
+         return result;
+      }
    },
 }
 </script>

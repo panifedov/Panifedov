@@ -31,10 +31,15 @@ export default {
       }
    },
    methods: {
-      addToCart () {
-         this.$emit('sendArticle', this.product_data.article)
-      }
-   }
+    addToCart() {
+      this.$set(this.product_data, "quantity", 1);
+      this.$store.dispatch("ADD_TO_CART", this.product_data);
+    }
+  },
+  mounted: {
+
+  }
+   
 }
 </script>
 

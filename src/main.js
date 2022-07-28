@@ -3,6 +3,7 @@ import App from './App.vue'
 import VueRouter from "vue-router";
 import Routes from "./router/router.js";
 import * as VueGoogleMaps from 'vue2-google-maps'
+import store from "./vuex/store.js"
 //import "./assets/reset.css";
 //import "./assets/styles.css";
 
@@ -24,6 +25,7 @@ const router = new VueRouter({
  });
 
 new Vue({
+   store,
    router,
   render: h => h(App),
 }).$mount('#app')
