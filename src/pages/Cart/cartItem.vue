@@ -62,6 +62,7 @@ export default {
   border-radius: 4px;
 }
 .cart-table-row button {
+   border: none;
   width: 30%;
   text-decoration: none;
   background: #e48900;
@@ -74,6 +75,7 @@ export default {
   cursor: pointer;
 }
 .btnqty {
+   border: none;
   width: 10% !important;
 }
 .cart-table-row {
