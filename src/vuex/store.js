@@ -103,22 +103,23 @@ let store = new Vuex.Store({
             state.cart.push(product)
          }
          
-      }
+      },
+   
+      REMOVE_CART_ITEM:(state,cart_item) => {
+         let index = state.cart.indexOf(cart_item);
+         if (index !== -1) {
+         state.cart.splice(index, 1);
+         }
+      },
+      DECREMENT_STATE_QUANTITY:(state,cart_item) => {
+         if (cart_item.quantity > 1){
+            cart_item.quantity--
+         }
+      } ,
+      INCREMENT_STATE_QUANTITY:(state,cart_item) => {
+         cart_item.quantity++
+      } 
    },
-   REMOVE_CART_ITEM:(state,cart_item) => {
-      let index = state.cart.indexOf(cart_item);
-      if (index !== -1) {
-        state.cart.splice(index, 1);
-      }
-   },
-   DECREMENT_STATE_QUANTITY:(cart_item) => {
-      if (cart_item.quantity > 1){
-         cart_item.quantity--
-      }
-   } ,
-   INCREMENT_STATE_QUANTITY:(cart_item) => {
-      cart_item.quantity++
-   } 
 });
 
 export default store;

@@ -3,12 +3,13 @@
          <router-link :to="{ name: 'Cart' }">
             <div class="cart-logo">
                <div class="price-cart-counter">
-
+                  {{cartItemTotal}}
                </div>
-            </div>
             <div class="price-cart-price">
                {{cartTotalCost}}
             </div>
+            </div>
+
          </router-link>
    </div>
 </template>
@@ -26,15 +27,9 @@ export default {
    computed: {
       cart() {
          return this.$store.getters["CART"]
-      }
-   },
-   methods:{
-
-   },
-   watch:{},
-   mounted: {
+      },
       cartTotalCost() {
-         result = []
+         let result = []
 
          for (let item of this.cart) {
             result.push(item.price * item.quantity)
@@ -43,7 +38,25 @@ export default {
             return sum+el;
          })
          return result;
+      },
+      cartItemTotal() {
+         let result = []
+
+         for (let item of this.cart) {
+            result.push(item.quantity)
+         }
+         result = result.reduce(function(sum, el) {
+            return sum+el;
+         })
+         return result;
       }
+   },
+   methods:{
+
+   },
+   watch:{},
+   mounted: {
+
    },
 }
 </script>
@@ -68,5 +81,21 @@ export default {
    border-radius: 50%;
    color: #000;
    background-color: #000;
+}
+.price-cart-price {
+   position: absolute;
+   margin-left: 90px;
+   font-style: normal;
+   font-family: "Montserrat";
+   color: #000;
+   font-size: 24px;
+   vertical-align: 50%;
+}
+.price-cart-counter {
+  color: white;
+  font-family: "Roboto";
+   text-decoration: underline;
+   text-decoration-color: #000;
+
 }
 </style>
