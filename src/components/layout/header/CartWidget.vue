@@ -28,6 +28,7 @@ export default {
       cart() {
          return this.$store.getters["CART"]
       },
+         
       cartTotalCost() {
          let result = []
 
@@ -39,6 +40,7 @@ export default {
          })
          return result;
       },
+
       cartItemTotal() {
          let result = []
 
@@ -56,7 +58,7 @@ export default {
    },
    watch:{},
    mounted: {
-
+      
    },
 }
 </script>
