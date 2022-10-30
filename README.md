@@ -1,5 +1,16 @@
-### Hi there 👋
+# Hello, I am Panifedov Ivan Aleksandrovich.
+  
+### Junior frontend developer   🌱
+ 
+#### ⚡ Now I'm improving Vue.js and learning Typescript/React
 
+####  🔭 My skills:
+###### Experience with Vue.js/Vuex/Vue-router  
+###### Experience with JavaScript
+###### Experience with HTML5, CSS3, SASS 
+
+
+               
 <!--
 **panifedov/Panifedov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
