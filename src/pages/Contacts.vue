@@ -1,10 +1,9 @@
 <template>
   <div>
     <div class="content-title">Contacts</div>
-    <div class="adress">
+    <div class="adress" style="padding: 80px">
       <h3>
-        You can easily find all sorts of our finest crap, shit and poop by
-        adress below. Our sells office is a natural peace of shit! Enjoy<br />
+        Enjoy<br />
         Lorem Ipsum is simply dummy text of the printing and typesetting
         industry. Lorem Ipsum has been the industry's standard dummy text ever
         since the 1500s, when an unknown printer took a galley of type and
@@ -21,7 +20,7 @@
        :center='center'
 
        :zoom='12'
-        style="width: 100%; height: 350px; border: 4px solid black"
+        style="width: 80%; height: 350px; border: 4px solid black; margin-left: 190px;"
       >
       </gmap-map>
     </div>

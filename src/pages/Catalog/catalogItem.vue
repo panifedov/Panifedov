@@ -3,7 +3,7 @@
     <div class="product-item-h1">
       {{product_data.name}}
     </div>
-    <img src="http://via.placeholder.com/150x150" />
+    <img src="https://avotar.ru/avatar/krutye/150/18.jpg" />
     <div class="product-item-p">
       {{ product_data.text}}
     </div>

@@ -5,22 +5,22 @@
       </div>
       <div class="testimonials">
          <div class="testimonials-comment">
-            <img src="http://via.placeholder.com/150x150" class="testimonials-icon" alt="">
+            <img src="https://avotar.ru/avatar/krutye/150/18.jpg" class="testimonials-icon" alt="">
             <div class="testimonials-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores praesentium fugit asperiores quam odit commodi dolore delectus aperiam? Impedit ullam, beatae maxime et, eligendi mollitia laboriosam tenetur consectetur eius saepe modi vitae corporis ipsa sapiente error nihil suscipit eum vero id commodi consequatur praesentium. Sed dignissimos perferendis, saepe laudantium perspiciatis ea provident nemo quo voluptate repudiandae minima illo libero dolore facere quam voluptates, quia ipsum fuga praesentium quidem adipisci officiis. Beatae cupiditate corporis porro veritatis distinctio tenetur nostrum delectus quia perspiciatis repellat exercitationem asperiores mollitia aut, recusandae quo eum illum, numquam hic similique dolorum magni. Sequi sit eaque suscipit accusantium?</div>
          </div>
          <hr >
          <div class="testimonials-comment">
-            <img src="http://via.placeholder.com/150x150" class="testimonials-icon" alt="">
+            <img src="https://avotar.ru/avatar/krutye/150/18.jpg" class="testimonials-icon" alt="">
             <div class="testimonials-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores praesentium fugit asperiores quam odit commodi dolore delectus aperiam? Impedit ullam, beatae maxime et, eligendi mollitia laboriosam tenetur consectetur eius saepe modi vitae corporis ipsa sapiente error nihil suscipit eum vero id commodi consequatur praesentium. Sed dignissimos perferendis, saepe laudantium perspiciatis ea provident nemo quo voluptate repudiandae minima illo libero dolore facere quam voluptates, quia ipsum fuga praesentium quidem adipisci officiis. Beatae cupiditate corporis porro veritatis distinctio tenetur nostrum delectus quia perspiciatis repellat exercitationem asperiores mollitia aut, recusandae quo eum illum, numquam hic similique dolorum magni. Sequi sit eaque suscipit accusantium?</div>
          </div>
          <hr>
          <div class="testimonials-comment">
-            <img src="http://via.placeholder.com/150x150" class="testimonials-icon" alt="">
+            <img src="https://avotar.ru/avatar/krutye/150/18.jpg" class="testimonials-icon" alt="">
             <div class="testimonials-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores praesentium fugit asperiores quam odit commodi dolore delectus aperiam? Impedit ullam, beatae maxime et, eligendi mollitia laboriosam tenetur consectetur eius saepe modi vitae corporis ipsa sapiente error nihil suscipit eum vero id commodi consequatur praesentium. Sed dignissimos perferendis, saepe laudantium perspiciatis ea provident nemo quo voluptate repudiandae minima illo libero dolore facere quam voluptates, quia ipsum fuga praesentium quidem adipisci officiis. Beatae cupiditate corporis porro veritatis distinctio tenetur nostrum delectus quia perspiciatis repellat exercitationem asperiores mollitia aut, recusandae quo eum illum, numquam hic similique dolorum magni. Sequi sit eaque suscipit accusantium?</div>
          </div>
          <hr>
          <div class="testimonials-comment">
-            <img src="http://via.placeholder.com/150x150" class="testimonials-icon" alt="">
+            <img src="https://avotar.ru/avatar/krutye/150/18.jpg" class="testimonials-icon" alt="">
             <div class="testimonials-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores praesentium fugit asperiores quam odit commodi dolore delectus aperiam? Impedit ullam, beatae maxime et, eligendi mollitia laboriosam tenetur consectetur eius saepe modi vitae corporis ipsa sapiente error nihil suscipit eum vero id commodi consequatur praesentium. Sed dignissimos perferendis, saepe laudantium perspiciatis ea provident nemo quo voluptate repudiandae minima illo libero dolore facere quam voluptates, quia ipsum fuga praesentium quidem adipisci officiis. Beatae cupiditate corporis porro veritatis distinctio tenetur nostrum delectus quia perspiciatis repellat exercitationem asperiores mollitia aut, recusandae quo eum illum, numquam hic similique dolorum magni. Sequi sit eaque suscipit accusantium?</div>
          </div>
          <hr>

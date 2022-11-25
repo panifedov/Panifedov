@@ -6,14 +6,13 @@
 </template>
 
 <script>
-import Header from "./components/layout/Header.vue"
+import Header from "./components/HeaderVue.vue"
 
 
 export default {
   name: 'App',
   components: {
      Header,
-
   }
 }
 </script>

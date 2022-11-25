@@ -11,7 +11,7 @@ let store = new Vuex.Store({
             available:true,
             article:"T1",
              name: "goose",
-             image: "1.jpeg",
+             image: "http://via.placeholder.com/150x150",
              gr: 3,
              price: 220,
              text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae culpa quos nostrum obcaecati quibusdam excepturi consequatur? Dicta nihil ad deserunt expedita quasi voluptas voluptatem dolorum perspiciatis et est tempore architecto, dignissimos porro eum nobis perferendis ab ducimus voluptatibus reiciendis cum nesciunt enim rem rerum sapiente. Labore reiciendis dicta in, saepe eaque molestiae libero officia rem illum, doloribus cupiditate dolores accusantium error consectetur asperiores nesciunt, minus ipsa? Hic sint aspernatur libero, at quidem error harum. Eum labore id quis quo dolore, veritatis delectus amet sequi dolorum accusamus voluptatibus in. Nostrum voluptatibus voluptates ipsam minus qui, quam impedit officiis doloribus deserunt architecto?"
@@ -20,7 +20,7 @@ let store = new Vuex.Store({
             available:true,
             article:"T2",
              name: "shock",
-             image: "1.jpeg",
+             image: "https://avotar.ru/avatar/krutye/150/18.jpg",
              gr: 1,
              price: 543,
              text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae culpa quos nostrum obcaecati quibusdam excepturi consequatur? Dicta nihil ad deserunt expedita quasi voluptas voluptatem dolorum perspiciatis et est tempore architecto, dignissimos porro eum nobis perferendis ab ducimus voluptatibus reiciendis cum nesciunt enim rem rerum sapiente. Labore reiciendis dicta in, saepe eaque molestiae libero officia rem illum, doloribus cupiditate dolores accusantium error consectetur asperiores nesciunt, minus ipsa? Hic sint aspernatur libero, at quidem error harum. Eum labore id quis quo dolore, veritatis delectus amet sequi dolorum accusamus voluptatibus in. Nostrum voluptatibus voluptates ipsam minus qui, quam impedit officiis doloribus deserunt architecto?"
@@ -29,7 +29,7 @@ let store = new Vuex.Store({
             available:true,
             article:"T3",
              name: "ninja",
-             image: "1.jpeg",
+             image: "https://avotar.ru/avatar/krutye/150/18.jpg",
              gr: 2,
              price: 252,
              text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae culpa quos nostrum obcaecati quibusdam excepturi consequatur? Dicta nihil ad deserunt expedita quasi voluptas voluptatem dolorum perspiciatis et est tempore architecto, dignissimos porro eum nobis perferendis ab ducimus voluptatibus reiciendis cum nesciunt enim rem rerum sapiente. Labore reiciendis dicta in, saepe eaque molestiae libero officia rem illum, doloribus cupiditate dolores accusantium error consectetur asperiores nesciunt, minus ipsa? Hic sint aspernatur libero, at quidem error harum. Eum labore id quis quo dolore, veritatis delectus amet sequi dolorum accusamus voluptatibus in. Nostrum voluptatibus voluptates ipsam minus qui, quam impedit officiis doloribus deserunt architecto?"
@@ -38,7 +38,7 @@ let store = new Vuex.Store({
             available:false,
             article:"T4",
              name: "apple",
-             image: "1.jpeg",
+             image: "https://avotar.ru/avatar/krutye/150/18.jpg",
              gr: 6,
              price: 111,
              text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae culpa quos nostrum obcaecati quibusdam excepturi consequatur? Dicta nihil ad deserunt expedita quasi voluptas voluptatem dolorum perspiciatis et est tempore architecto, dignissimos porro eum nobis perferendis ab ducimus voluptatibus reiciendis cum nesciunt enim rem rerum sapiente. Labore reiciendis dicta in, saepe eaque molestiae libero officia rem illum, doloribus cupiditate dolores accusantium error consectetur asperiores nesciunt, minus ipsa? Hic sint aspernatur libero, at quidem error harum. Eum labore id quis quo dolore, veritatis delectus amet sequi dolorum accusamus voluptatibus in. Nostrum voluptatibus voluptates ipsam minus qui, quam impedit officiis doloribus deserunt architecto?"
@@ -47,7 +47,7 @@ let store = new Vuex.Store({
             available:true,
             article:"T5",
              name: "chitos",
-             image: "1.jpeg",
+             image: "https://avotar.ru/avatar/krutye/150/18.jpg",
              gr: 5,
              price: 532,
              text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae culpa quos nostrum obcaecati quibusdam excepturi consequatur? Dicta nihil ad deserunt expedita quasi voluptas voluptatem dolorum perspiciatis et est tempore architecto, dignissimos porro eum nobis perferendis ab ducimus voluptatibus reiciendis cum nesciunt enim rem rerum sapiente. Labore reiciendis dicta in, saepe eaque molestiae libero officia rem illum, doloribus cupiditate dolores accusantium error consectetur asperiores nesciunt, minus ipsa? Hic sint aspernatur libero, at quidem error harum. Eum labore id quis quo dolore, veritatis delectus amet sequi dolorum accusamus voluptatibus in. Nostrum voluptatibus voluptates ipsam minus qui, quam impedit officiis doloribus deserunt architecto?"
@@ -56,7 +56,7 @@ let store = new Vuex.Store({
             available:true,
             article:"T6",
              name: "red",
-             image: "1.jpeg",
+             image: "https://avotar.ru/avatar/krutye/150/18.jpg",
              price: 611,
              gr: 2,
              text: "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quae culpa quos nostrum obcaecati quibusdam excepturi consequatur? Dicta nihil ad deserunt expedita quasi voluptas voluptatem dolorum perspiciatis et est tempore architecto, dignissimos porro eum nobis perferendis ab ducimus voluptatibus reiciendis cum nesciunt enim rem rerum sapiente. Labore reiciendis dicta in, saepe eaque molestiae libero officia rem illum, doloribus cupiditate dolores accusantium error consectetur asperiores nesciunt, minus ipsa? Hic sint aspernatur libero, at quidem error harum. Eum labore id quis quo dolore, veritatis delectus amet sequi dolorum accusamus voluptatibus in. Nostrum voluptatibus voluptates ipsam minus qui, quam impedit officiis doloribus deserunt architecto?"

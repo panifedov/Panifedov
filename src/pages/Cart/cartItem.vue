@@ -1,7 +1,7 @@
 <template>
   <div class="cart-table-row ">
     <div>
-      <img src="http://via.placeholder.com/150x150" class="cart-img" />
+      <img src="https://avotar.ru/avatar/krutye/150/18.jpg" class="cart-img" />
     </div>
     <div class="cart-product-text">
       {{ cart_item.name }}: <br />{{ cart_item.gr}} gr
