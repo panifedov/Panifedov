@@ -10,7 +10,7 @@
 
 <br>
 
-| Сontact me                    |Link |
-|----------------------------|--|---------------------------------|--|
-|Telegram | [link]([https://www.codewars.com/kata/570a6a46455d08ff8d001002/train/java](https://t.me/IvanPanifedov)) |
-|email | [link](mailto:ivan.panifedov@gmail.com)) |
+| Сontact me |Link |
+|--|--|
+|Telegram | [link](https://t.me/IvanPanifedov) |
+|email | [link](mailto:ivan.panifedov@gmail.com) |
