@@ -28,7 +28,7 @@
   ```Java
     public class Main {
         public static void main(String[] args) {
-            Person ivan = new Person("Иван", "поднимать тяжёлые железяки в качалке", "веб разработка");
+            Person ivan = new Person("Иван", "поднимать тяжёлые железяки в качалке", "веб разработке");
             ivan.introduce();
             ivan.describeHobby();
             ivan.describeInterests();
@@ -73,8 +73,20 @@
   ```
 </div>
 
-### Skills
-<div style="display=flex; justify-content=space-beetwen">
+<h1 align="center">Skills</h1>
+
+<br>
+<br>
+
+<div style="display: flex;flex-direction: column-reverse; align-items: center;">
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/lvlUp.gif" alt="git" width="650" hight="650"></img>
+</div>
+  
+<br>
+<br>
+<br>
   
   <div>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/java.png" alt="git" width="120" hight="50"></img>
@@ -84,22 +96,24 @@
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/sql-server.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/social.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/css-3.png" alt="git" width="120" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/document.png" alt="git" width="120" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/react.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/web.png" alt="git" width="120" hight="50"></img>
   </div>
-
-  <div>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/lvlUp.gif" alt="git" width="250" hight="250"></img>
-  </div>
-    
+  
 </div>
 
 <br>
 <br>
 
-| Сontact me |Link |
-|--|--|
-|<img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/telegram.png" alt="git" width="120" hight="120"></img> | [link](https://t.me/IvanPanifedov) |
-|<img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/gmail.png" alt="git" width="120" hight="120"></img> | [link](mailto:ivan.panifedov@gmail.com) |
-|<img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/linkedin.png" alt="git" width="120" hight="120"></img> | [link](https://www.linkedin.com/in/ivan-panifedov-0b1097290/)) |
+
+<h1 align="center">Contact me</h1>
+
+<br>
+<br>
+
+<div style="display: flex" align="center" >
+
+  <a href="https://t.me/IvanPanifedov"> <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/telegram.png" alt="git" width="120" hight="120" ></img> <a/>
+  <a href="mailto:ivan.panifedov@gmail.com"> <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/gmail.png" alt="git" width="120" hight="120"> <a/>
+  <a href="https://www.linkedin.com/in/ivan-panifedov-0b1097290"> <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/linkedin.png" alt="git" width="120" hight="120"> <a/>
+
+</div>
