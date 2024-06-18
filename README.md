@@ -88,7 +88,7 @@
 <br>
 <br>
   
-  <div>
+  <div align="center">
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/java.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/js.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/linux.png" alt="git" width="120" hight="50"></img>
@@ -96,6 +96,10 @@
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/sql-server.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/social.png" alt="git" width="120" hight="50"></img>    
   </div>
+  <div align="center">
+    <a  href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=panifedov&theme=dark&border_radius=4.6&mode=weekly" alt="GitHub Streak" /></a>
+  </div>
+  
   
 </div>
 
