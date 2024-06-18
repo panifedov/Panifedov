@@ -89,12 +89,12 @@
 <br>
   
   <div>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/java.png" alt="git" width="160" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/js.png" alt="git" width="160" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/linux.png" alt="git" width="160" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/gnu-bash.png" alt="git" width="160" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/sql-server.png" alt="git" width="160" hight="50"></img>
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/social.png" alt="git" width="160" hight="50"></img>    
+    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/java.png" alt="git" width="120" hight="50"></img>
+    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/js.png" alt="git" width="120" hight="50"></img>
+    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/linux.png" alt="git" width="120" hight="50"></img>
+    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/gnu-bash.png" alt="git" width="120" hight="50"></img>
+    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/sql-server.png" alt="git" width="120" hight="50"></img>
+    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/social.png" alt="git" width="120" hight="50"></img>    
   </div>
   
 </div>
