@@ -97,7 +97,7 @@
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/social.png" alt="git" width="120" hight="50"></img>    
   </div>
   <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=panifedov&theme=highcontrast&hide_border=false" alt="GitHub Streak" /></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=panifedov&theme=dark" alt="GitHub Streak" /></a>
   </div>
   
   
