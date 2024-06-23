@@ -28,7 +28,7 @@
   ```Java
     public class Main {
         public static void main(String[] args) {
-            Person ivan = new Person("Иван", "поднимать тяжёлые железяки в качалке", "веб разработке");
+            Person ivan = new Person("Иван", "поднимать тяжёлые железяки в качалке", "кибербезопасности");
             ivan.introduce();
             ivan.describeHobby();
             ivan.describeInterests();
