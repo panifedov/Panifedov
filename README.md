@@ -16,63 +16,16 @@
 </br>
 </br>
 
+<h1 align="center">About Me</h1>
+<h3 align="center">Hi everyone!<br> 
+My name is Ivan, and I am passionate about cybersecurity. Initially, I worked on frontend development, but I realized it wasn't the right fit for me. So, I decided to dive deeper into the world of IT.<br>
+I have explored various areas in the field and recognized the importance of learning English. My goal is to become proficient in English and earn certifications such as CompTIA A+, Network+, Security+, Linux+, and CCNA.<br>
+I might not be very active here for a while as I focus on these goals.<br><br>
+P.S. When you delete repositories, all associated Git activity is also removed. :(</h3>
 
-# About ME 💬 :
 
 
-
-
-
-  <div style="width: 300px; height: 300px; overflow: auto;">
-    
-  ```Java
-    public class Main {
-        public static void main(String[] args) {
-            Person ivan = new Person("Иван", "поднимать тяжёлые железяки в качалке", "кибербезопасности");
-            ivan.introduce();
-            ivan.describeHobby();
-            ivan.describeInterests();
-        }
-    }
-    
-    class Person {
-        private String name;
-        private String hobby;
-        private String interests;
-    
-        public Person(String name, String hobby, String interests) {
-            this.name = name;
-            this.hobby = hobby;
-            this.interests = interests;
-        }
-    
-        public String getName() {
-            return name;
-        }
-    
-        public String getHobby() {
-            return hobby;
-        }
-    
-        public String getInterests() {
-            return interests;
-        }
-    
-        public void introduce() {
-            System.out.println("Меня зовут " + name);
-        }
-    
-        public void describeHobby() {
-            System.out.println("Моё хобби - " + hobby);
-        }
-    
-        public void describeInterests() {
-            System.out.println("Всё остальное время я стараюсь уделять " + interests);
-        }
-    }
-  ```
-</div>
-
+<!--
 <h1 align="center">Skills</h1>
 
 <br>
@@ -80,16 +33,16 @@
 
 <div style="display: flex;flex-direction: column-reverse; align-items: center;">
 
+/*
 <div align="center">
   <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/lvlUp.gif" alt="git" width="650" hight="650"></img>
-</div>
-  
+ </div>
+-->  
 <br>
 <br>
 <br>
   
   <div align="center">
-    <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/java.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/js.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/linux.png" alt="git" width="120" hight="50"></img>
     <img src="https://raw.githubusercontent.com/panifedov/Panifedov/main/icons/gnu-bash.png" alt="git" width="120" hight="50"></img>
