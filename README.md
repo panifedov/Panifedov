@@ -19,7 +19,7 @@
 <h1 align="center">About Me</h1>
 <h3 align="center">Hi everyone!<br> 
 My name is Ivan, and I am passionate about cybersecurity. Initially, I worked on frontend development, but I realized it wasn't the right fit for me. So, I decided to dive deeper into the world of IT.<br>
-I have explored various areas in the field and recognized the importance of learning English. My goal is to become proficient in English and earn certifications such as CompTIA A+, Network+, Security+, Linux+, and CCNA.<br>
+I have explored various areas in the field and recognized the importance of learning English. My goal is to become proficient in English and earn certifications such as CompTIA Network+, Security+ and CCNA.<br>
 I might not be very active here for a while as I focus on these goals.<br><br>
 P.S. When you delete repositories, all associated Git activity is also removed. :(</h3>
 
